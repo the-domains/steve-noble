@@ -1,16 +1,16 @@
-typography_spectrum: 0.7283071905840188
+typography_spectrum: 0.5859628790058196
 color:
-  brandStrength: 0.5224489991087466
-  lightness: 0.8959633316844702
-  saturation: 0.12794765923172235
-  rhythmicContrast: 0.09387816837988794
+  brandStrength: 0.765072081470862
+  lightness: 0.20065535604953766
+  saturation: 0.9854449373669922
+  rhythmicContrast: 0.5945701277814806
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
-layout_spectrum: 0.8627678796183318
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.13386359252035618
 author:
   name: Steve Noble
   email: noblesteve@msn.com
