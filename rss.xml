@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[STEVE NOBLE]]></title>
+        <description><![CDATA[STEVE NOBLE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 22:39:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HeartBreakCity (Dubtronic Memory Hunting Remix)]]></title>
+            <description><![CDATA[<article><h1>HeartBreakCity (Dubtronic Memory Hunting Remix)</h1><p>Uploaded by DubtronicRemix on 2016-06-01.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=AV6QFMBvkfk</link>
+            <guid isPermaLink="false">c603aac3-f4d6-47e4-8607-71b28ea3a615</guid>
+            <pubDate>Thu, 18 Aug 2016 22:38:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
