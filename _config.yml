@@ -11,6 +11,9 @@ color:
     - '#424E4F'
     - '#1B1D1E'
 layout_spectrum: 0.8627678796183318
+author:
+  name: Steve Noble
+  email: noblesteve@msn.com
 name: Steve Noble
 title: STEVE NOBLE
 description: '"Video Killed Radio"'
