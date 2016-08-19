@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T05:03:46.277Z'
+datePublished: '2016-08-19T05:05:21.669Z'
 sourcePath: _posts/2016-08-19-patrick-cassidy-na-mbeannaiochtai-the-beatitudes.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ydLiHtR_0xk'
 keywords:
@@ -19,8 +19,8 @@ author:
     url: 'https://www.youtube.com/user/danbecvel1'
     avatar: {}
 via: {}
-dateModified: '2016-08-19T05:03:45.948Z'
-title: Na Mbeannaíochtaí (The Beatitudes) 2
+dateModified: '2016-08-19T05:05:21.243Z'
+title: Na Mbeannaíochtaí (The Beatitudes) - Patrick Cassidy
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ydLiHtR_0xk&feature=applinks'
     type: ios
@@ -63,15 +63,7 @@ publisher:
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: >-
-  Calvary
-  --------------------------------------------------------------------------
-  Composed By, Orchestrated By - Patrick Cassidy Conductor - Robert Houlihan
-  Mastered By - Nick Taylor (3) Orchestrated By - Patrick Cassidy Performer -
-  RTÉ Concert Orchestra Solo Vocal - Aya Peard, Iarla Ó Lionáird Violin - Odhrán
-  Ó Casaide
-  -------------------------------------------------------------------------- All
-  rights for the original authors.
+description: ''
 inLanguage: en
 starred: false
 inFeed: true
