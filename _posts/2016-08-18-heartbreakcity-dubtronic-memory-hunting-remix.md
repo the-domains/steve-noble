@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T03:49:44.439Z'
+datePublished: '2016-08-19T04:05:44.247Z'
 sourcePath: _posts/2016-08-18-heartbreakcity-dubtronic-memory-hunting-remix.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=AV6QFMBvkfk'
 keywords:
@@ -19,8 +19,8 @@ author:
     url: 'https://www.youtube.com/user/DubtronicRemix'
     avatar: {}
 via: {}
-dateModified: '2016-08-19T03:49:44.078Z'
-title: HeartBreakCity (Dubtronic Memory Hunting Remix)
+dateModified: '2016-08-19T04:05:43.741Z'
+title: Heartbreak City - Madonna
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=AV6QFMBvkfk&feature=applinks'
     type: ios
