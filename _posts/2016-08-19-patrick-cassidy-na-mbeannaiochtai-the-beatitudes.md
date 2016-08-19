@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Dani Cantely
-    url: 'https://www.youtube.com/user/danbecvel1'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-19T05:03:46.277Z'
+sourcePath: _posts/2016-08-19-patrick-cassidy-na-mbeannaiochtai-the-beatitudes.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ydLiHtR_0xk'
 keywords:
   - duration
   - cassidy
@@ -20,16 +13,14 @@ keywords:
   - gerrard
   - soundtrack
   - mbeanna
-description: >-
-  Calvary
-  --------------------------------------------------------------------------
-  Composed By, Orchestrated By - Patrick Cassidy Conductor - Robert Houlihan
-  Mastered By - Nick Taylor (3) Orchestrated By - Patrick Cassidy Performer -
-  RTÉ Concert Orchestra Solo Vocal - Aya Peard, Iarla Ó Lionáird Violin - Odhrán
-  Ó Casaide
-  -------------------------------------------------------------------------- All
-  rights for the original authors.
-inLanguage: en
+related: []
+author:
+  - name: Dani Cantely
+    url: 'https://www.youtube.com/user/danbecvel1'
+    avatar: {}
+via: {}
+dateModified: '2016-08-19T05:03:45.948Z'
+title: Na Mbeannaíochtaí (The Beatitudes) 2
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ydLiHtR_0xk&feature=applinks'
     type: ios
@@ -67,18 +58,27 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ydLiHtR_0xk'
-title: Patrick Cassidy - Na Mbeannaíochtaí (The Beatitudes)
-datePublished: '2016-08-19T05:03:14.783Z'
-dateModified: '2016-08-19T05:02:43.341Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  Calvary
+  --------------------------------------------------------------------------
+  Composed By, Orchestrated By - Patrick Cassidy Conductor - Robert Houlihan
+  Mastered By - Nick Taylor (3) Orchestrated By - Patrick Cassidy Performer -
+  RTÉ Concert Orchestra Solo Vocal - Aya Peard, Iarla Ó Lionáird Violin - Odhrán
+  Ó Casaide
+  -------------------------------------------------------------------------- All
+  rights for the original authors.
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-19-patrick-cassidy-na-mbeannaiochtai-the-beatitudes.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FydLiHtR_0xk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DydLiHtR_0xk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FydLiHtR_0xk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
