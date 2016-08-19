@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-19T03:34:43.441Z'
+datePublished: '2016-08-19T03:37:20.633Z'
 sourcePath: _posts/2016-08-19-the-man-in-the-high-castle-edelweiss-geektronica-synth-c.md
-isBasedOnUrl: 'https://www.youtube.com/watch?v=gFCBlIY814M'
 keywords:
   - duration
   - vgm
@@ -19,7 +18,7 @@ author:
     url: 'https://www.youtube.com/user/acewatersthe3rd'
     avatar: {}
 via: {}
-dateModified: '2016-08-19T03:34:43.002Z'
+dateModified: '2016-08-19T03:37:20.253Z'
 title: 'The Man in the High Castle - Edelweiss [Geektronica Synth Cover]'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=gFCBlIY814M&feature=applinks'
@@ -65,10 +64,9 @@ publisher:
   domain: www.youtube.com
 description: Watch "The Man in the High Castle" on Amazon Prime.
 inLanguage: en
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: the-man-in-the-high-castle-edelweiss-geektronica-synth-co/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
