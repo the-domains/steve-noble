@@ -1,15 +1,15 @@
-typography_spectrum: 0.5822979647200555
+typography_spectrum: 0.25203183689154685
 color:
-  brandStrength: 0.9456520979292691
-  lightness: 0.2081675105728209
-  saturation: 0.3921920242719352
-  rhythmicContrast: 0.08784897811710835
+  brandStrength: 0.23018433549441397
+  lightness: 0.19370294245891273
+  saturation: 0.38541526487097144
+  rhythmicContrast: 0.9323733511846513
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 layout_spectrum: 0.2149514346383512
 author:
   name: Steve Noble
