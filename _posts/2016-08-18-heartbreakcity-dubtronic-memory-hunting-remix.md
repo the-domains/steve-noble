@@ -1,14 +1,7 @@
 ---
-author:
-  - name: DubtronicRemix
-    url: 'https://www.youtube.com/user/DubtronicRemix'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-19T03:49:44.439Z'
+sourcePath: _posts/2016-08-18-heartbreakcity-dubtronic-memory-hunting-remix.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=AV6QFMBvkfk'
 keywords:
   - dubtronic
   - duration
@@ -20,8 +13,14 @@ keywords:
   - ruud
   - mix
   - devil
-description: Uploaded by DubtronicRemix on 2016-06-01.
-inLanguage: en
+related: []
+author:
+  - name: DubtronicRemix
+    url: 'https://www.youtube.com/user/DubtronicRemix'
+    avatar: {}
+via: {}
+dateModified: '2016-08-19T03:49:44.078Z'
+title: HeartBreakCity (Dubtronic Memory Hunting Remix)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=AV6QFMBvkfk&feature=applinks'
     type: ios
@@ -59,18 +58,19 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=AV6QFMBvkfk'
-title: HeartBreakCity (Dubtronic Memory Hunting Remix)
-datePublished: '2016-08-18T22:38:30.251Z'
-dateModified: '2016-08-18T22:38:18.792Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: ''
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-18-heartbreakcity-dubtronic-memory-hunting-remix.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAV6QFMBvkfk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAV6QFMBvkfk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAV6QFMBvkfk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
