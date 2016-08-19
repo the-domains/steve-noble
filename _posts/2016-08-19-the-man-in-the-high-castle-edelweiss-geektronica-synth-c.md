@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T03:40:42.032Z'
+datePublished: '2016-08-19T03:49:18.192Z'
 sourcePath: _posts/2016-08-19-the-man-in-the-high-castle-edelweiss-geektronica-synth-c.md
 hasPage: true
 keywords:
@@ -19,8 +19,8 @@ author:
     url: 'https://www.youtube.com/user/acewatersthe3rd'
     avatar: {}
 via: {}
-dateModified: '2016-08-19T03:40:41.439Z'
-title: 'The Man in the High Castle - Edelweiss [Geektronica Synth Cover]'
+dateModified: '2016-08-19T03:49:17.588Z'
+title: The Man in the High Castle - Edelweiss
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=gFCBlIY814M&feature=applinks'
     type: ios
