@@ -1,4 +1,4 @@
-typography_spectrum: 0.25203183689154685
+typography_spectrum: 0.9381286751013249
 color:
   brandStrength: 0.23018433549441397
   lightness: 0.19370294245891273
@@ -10,7 +10,7 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.2149514346383512
+layout_spectrum: 0.3610581473913044
 author:
   name: Steve Noble
   email: noblesteve@msn.com
