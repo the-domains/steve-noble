@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T04:46:24.314Z'
+datePublished: '2016-08-19T04:58:46.981Z'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ydLiHtR_0xk'
 keywords:
   - duration
@@ -18,7 +18,7 @@ author:
     url: 'https://www.youtube.com/user/danbecvel1'
     avatar: {}
 via: {}
-dateModified: '2016-08-19T04:45:59.594Z'
+dateModified: '2016-08-19T04:58:43.087Z'
 title: Na Mbeannaíochtaí (The Beatitudes) - Patrick Cassidy
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ydLiHtR_0xk&feature=applinks'
