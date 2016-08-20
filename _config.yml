@@ -1,19 +1,6 @@
 author:
   name: Steve Noble
   email: noblesteve@msn.com
-title: STEVE NOBLE
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 color:
   saturation: 0.3854152648709714
   brandStrength: 0.230184335494414
@@ -25,7 +12,20 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
   lightness: 0.1937029424589127
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: STEVE NOBLE
+layout_spectrum: 0.3610581473913044
 typography_spectrum: 0.3012889
 description: '"Video killed Radio"'
-layout_spectrum: 0.3610581473913044
 name: Steve Noble
