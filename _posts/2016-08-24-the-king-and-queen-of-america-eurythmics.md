@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-24T08:32:57.419Z'
+datePublished: '2016-08-24T09:02:12.926Z'
+sourcePath: _posts/2016-08-24-the-king-and-queen-of-america-eurythmics.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=-9nZhdEdBKw'
 keywords: []
 related: []
@@ -8,7 +9,7 @@ author:
     url: 'https://www.youtube.com/user/EurythmicsVEVO'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T08:32:52.519Z'
+dateModified: '2016-08-24T09:02:12.573Z'
 title: The King and Queen of America - Eurythmics
 app_links: []
 publisher:
@@ -16,11 +17,8 @@ publisher:
   name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
-description: >-
-  Music video by Eurythmics performing King And Queen Of America. (C) 1989 SONY
-  BMG MUSIC ENTERTAINMENT (UK) Limited
+description: ''
 starred: false
-sourcePath: _posts/2016-08-24-the-king-and-queen-of-america-eurythmics.md
 inFeed: true
 hasPage: false
 inNav: false
